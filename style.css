@@ -22,9 +22,9 @@
 	box-shadow: none;
   border: none;
   border-radius: 0;
-	font-family: "Segoe UI", "Ubuntu";
+	font-family: "DankMono";
   font-weight: 600;
-  font-size: 12.7px;
+  font-size: 14px;
 	
 	
 }
@@ -47,7 +47,7 @@ tooltip label{
 }
 
 #custom-os_button {
-	font-family: "JetBrainsMono Nerd Font";
+	font-family: "DankMono";
   font-size: 24px;
 	padding-left: 12px;
 	padding-right: 20px;
@@ -154,7 +154,7 @@ tooltip label{
 }
 
 #pulseaudio {
-	font-family: "JetBrainsMono Nerd Font";
+	font-family: "DankMono";
 	padding-left: 3px;
   padding-right: 3px;
 	transition: all 0.25s cubic-bezier(0.165, 0.84, 0.44, 1);
