@@ -38,7 +38,7 @@
       }
     },
     "custom/launcher": {
-      "format": "🔍",
+      "format": " ",
       "on-click": "wofi --show drun",
       "tooltip": false
     },
@@ -227,7 +227,7 @@
       "max-length": 50
     },
     "custom/os_button": {
-      "format": "🔍",
+      "format": " ",
       "on-click": "wofi --show drun",
       "tooltip": true
     },
