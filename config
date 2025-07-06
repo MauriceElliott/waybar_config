@@ -229,7 +229,7 @@
     "custom/os_button": {
       "format": "🔍",
       "on-click": "wofi --show drun",
-      "tooltip": false
+      "tooltip": true
     },
     "wlr/taskbar": {
       "format": "{icon}",
