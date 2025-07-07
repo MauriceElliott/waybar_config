@@ -208,37 +208,4 @@
       "on-click": "pavucontrol",
       "on-click-right": "foot -a pw-top pw-top"
     }
-  },
-  {
-    "layer": "top",
-    "position": "bottom",
-    "height": 41,
-    "width": 2,
-    "modules-left": [
-      "custom/os_button"
-    ],
-    "modules-center": [
-      "sway/mode",
-      "wlr/taskbar"
-    ],
-    "margin": "4",
-    "spacing": "5",
-    "sway/window": {
-      "max-length": 50
-    },
-    "custom/os_button": {
-      "format": " ",
-      "on-click": "wofi --show drun",
-      "tooltip": true
-    },
-    "wlr/taskbar": {
-      "format": "{icon}",
-      "icon-size": 36,
-      "spacing": 3,
-      "on-click-middle": "close",
-      "tooltip-format": "{title}",
-      "ignore-list": [],
-      "on-click": "activate"
-    }
-  }
-]
+  }]
